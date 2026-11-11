@@ -1,4 +1,5 @@
 """Interactive web interface for the collaborative Git calculator."""
+
 import streamlit as st
 
 from calculator import (
